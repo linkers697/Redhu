@@ -80,8 +80,8 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=" ˹ᴄʜᴧᴍᴘᴜ˼ ",
-                url="https://t.me/akaChampu",
+                text=" Aura ",
+                url="https://t.me/AuraVisual",
             ),
         ],
     ]
@@ -115,8 +115,8 @@ def queuemarkup(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=" ˹ᴄʜᴧᴍᴘᴜ˼ ",
-                url="https://t.me/akaChampu",
+                text=" Aura ",
+                url="https://t.me/AuraVisual",
             ),
         ],
     ]
